@@ -1,0 +1,3 @@
+﻿  MyForm.cpp
+c:\users\maria\source\repos\databaseproject\databaseproject\myform.h(429): warning C4101: 'dr': unreferenced local variable
+  DataBaseProject.vcxproj -> C:\Users\maria\source\repos\DataBaseProject\x64\Release\DataBaseProject.exe
